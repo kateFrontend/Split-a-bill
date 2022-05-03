@@ -1,6 +1,6 @@
 <div>
   <h1>Split a bill application</h1> 
-  <img src="" alt="" width="auto">
+  <img src="app-cover.JPG" alt="app cover" width="auto">
 </div>
 
 <!-- ABOUT THE PROJECT -->
