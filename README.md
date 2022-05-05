@@ -17,6 +17,7 @@ Bill splitting application using Vanilla Javascript.
  
 <!-- USAGE EXAMPLES -->
 ## Usage
+<p>Split a bill app divides the cost of the bill that is being split and assigns each person their cost + tips.</p>
 <p>Application is responsive for all mobile devices.</p>
 
 Project Link: https://github.com/kateFrontend/Split-a-bill
